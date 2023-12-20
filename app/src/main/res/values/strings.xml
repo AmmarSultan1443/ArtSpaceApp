@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Art Space App</string>
+
+    <!-- contentDescription -->
+    <string name="image1">Khouribga city</string>
+    <string name="image2">Rabat</string>
+    <string name="image3">Rabat Hassan</string>
+    <string name="image4">Khouribga</string>
+    <string name="image5">Rabat Hassan</string>
+    <string name="image6">Khouribga cultural center</string>
+    <string name="image7">khouribga cultural center</string>
+    <string name="image8">Khouribga Bd Merrakesh</string>
+    <string name="image9">Khouribga Parc Ocp</string>
+    <string name="image10">Khouribga OCP</string>
+    <string name="image11">Khouribga Parc OCP</string>
 </resources>
